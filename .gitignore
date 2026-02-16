@@ -203,6 +203,7 @@ cython_debug/
 # Ruff stuff:
 .ruff_cache/
 
+<<<<<<< HEAD
 # pytest cache
 .pytest_cache/
 
@@ -211,6 +212,8 @@ cython_debug/
 venv/
 env/
 
+=======
+>>>>>>> 7dbf64164ea7d4575c6018855fef9a8a1c9e8e27
 # PyPI configuration file
 .pypirc
 
